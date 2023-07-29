@@ -37,7 +37,7 @@
               class="block text-gray-700 text-sm font-bold mb-2"
               for="username"
             >
-              Subject
+              Subject :
             </label>
             <input
               class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
@@ -49,7 +49,7 @@
               class="block text-gray-700 text-sm font-bold mb-2"
               for="username"
             >
-              Message
+              Message :
             </label>
             <textarea
               name=""
@@ -84,7 +84,7 @@
             <div>
                 <i class="fa-brands fa-whatsapp text-4xl"></i>
             </div>
-            <div class="ml-3 mt-4" >
+            <div class="ml-3 mt-2" >
                 <p class="text-1xl font-bold">0838-2102-1360</p>
             </div>
         </div>
@@ -92,7 +92,7 @@
             <div>
                 <i class="fa-regular fa-envelope text-4xl"></i>
             </div>
-            <div class="ml-3 mt-3" >
+            <div class="ml-3 mt-2" >
                 <p class="text-1xl font-bold">hafidalazhar5@gmail.com</p>
             </div>
         </div>
@@ -100,8 +100,8 @@
             <div>
                 <i class="fa-solid fa-location-dot text-4xl"></i>
             </div>
-            <div class="ml-3 mt-4" >
-                <p class="text-1xl font-bold">Rancamanyar</p>
+            <div class="ml-3 mt-2" >
+                <p class="text-1xl font-bold ">Rancamanyar</p>
             </div>
         </div>
       </div>

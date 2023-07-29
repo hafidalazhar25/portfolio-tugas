@@ -27,7 +27,9 @@
           <a href="#contact" class="block mt-2 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent duration-0 hover:underline decoration-blue-600 decoration-4 underline-offset-8 duration-100">Contact</a>
         </li>
         <li>
+          <form action="../assets/Resume-Hafid-Al-Azhar.pdf">
             <button type="button" class=" text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 font-semibold">Download CV <i class="bi bi-file-earmark-arrow-down-fill ml-1 "></i></button>
+          </form>
         </li>
       </ul>
     </div>
