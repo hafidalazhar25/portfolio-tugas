@@ -85,7 +85,7 @@
                 <i class="fa-brands fa-whatsapp text-4xl"></i>
             </div>
             <div class="ml-3 mt-2" >
-                <p class="text-1xl font-bold">0838-2102-1360</p>
+                <a class="text-1xl font-bold" href="tel:+6283821021360">0838-2102-1360</a>
             </div>
         </div>
         <div class="flex flex-row mt-3">
