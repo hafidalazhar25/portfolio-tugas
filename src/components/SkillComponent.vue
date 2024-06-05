@@ -34,7 +34,7 @@
         <div class="skills-title">
           <div class="skills-img">
             <img
-              src="https://icon-library.net/images/javascript-icon-png/javascript-icon-png-23.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"
               alt=""
               class="skills-icons"
             />
