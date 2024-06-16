@@ -9,45 +9,34 @@
         <div class="max-w-sm rounded-xl overflow-hidden shadow-xl">
           <img
             class="w-full"
-            src="https://hafidalazhar.my.id/img/website4.jpeg"
+            src="../assets/website-artisanalley.png"
             alt="Warindo Website"
           />
           <div class="px-6 py-4">
-            <div class="font-bold text-xl mb-2">Warung WARINDO</div>
+            <div class="font-bold text-xl mb-2">ArtisanAlley</div>
             <p class="text-gray-700 text-base">
-              Warindo adalah sebuah website yang diperuntukan untuk orang orang
-              yang berjualan warung
+              ArtisanAlley adalah sebuah ecommerce sederhana. yang di peruntukan
+              untuk tugas akhir dalam melaksanakan PKL Internal.
             </p>
           </div>
-          <div class="px-6 pt-4 pb-6">
-            <a
-              href="warindo.com"
-              class="text-white mb-2 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
-              >warindo.com</a
-            >
-          </div>
+          <div class="px-6 pt-4 pb-6"></div>
         </div>
       </div>
       <div class="basis-1/2">
         <div class="max-w-sm rounded-xl overflow-hidden shadow-xl">
           <img
             class="w-full"
-            src="https://hafidalazhar.my.id/img/website3.jpeg "
+            src="../assets/website-ptipd.jpeg"
             alt="Cafe Website"
           />
           <div class="px-6 py-4">
-            <div class="font-bold text-xl mb-2">Sasscafe</div>
+            <div class="font-bold text-xl mb-2">PTIPD Inventory</div>
             <p class="text-gray-700 text-base">
-              Sasscafe adalah web yang ditujukan untuk menjual sebuah kopi yang dapat dinikmati oleh orang orang
+              PTIPD Inventory adalah sebuah project aplikasi PKL yang digunakan
+              untuk mengelola Lab komputer di PTIPD UIN Sunan Gunung Djati
             </p>
           </div>
-          <div class="px-6 pt-4 pb-6">
-            <a
-              href="sasscafe.com"
-              class="text-white mb-2 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
-              >sasscafe.com</a
-            >
-          </div>
+          <div class="px-6 pt-4 pb-6"></div>
         </div>
       </div>
       <div class="basis-1/2">
@@ -60,20 +49,17 @@
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">Belajar Yuk Web School</div>
             <p class="text-gray-700 text-base">
-              Belajar yuk adalah sebuah web yang digunakan untuk memenuhi kebutuhan pelajar di indonesia
+              Belajar Yuk adalah sebuah aplikasi pembelajaran online yang
+              diperuntukan untuk tugas akhir dalam materi HTML dan CSS
             </p>
           </div>
-          <div class="px-6 pt-4 pb-6">
-            <a
-              href="belajar-yuk.netlify.app"
-              class="text-white mb-2 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
-              >belajaryuk.com</a
-            >
-          </div>
+          <div class="px-6 pt-4 pb-6"></div>
         </div>
       </div>
     </div>
   </div>
 </template>
 
-<script setup></script>
+<script>
+
+</script>
