@@ -20,7 +20,7 @@ hafidalazhar5@gmail.com">Email</a>
       <div class="basis-1/2">
         <center>
           <img
-            src="../assets/1690517387627.png"
+            src="../assets/1690517387627.webp"
             alt=""
             width="350"
             srcset=""

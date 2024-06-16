@@ -9,7 +9,7 @@
         <div class="max-w-sm rounded-xl overflow-hidden shadow-xl">
           <img
             class="w-full"
-            src="../assets/website-artisanalley.png"
+            src="../assets/website-artisanalley.webp"
             alt="Warindo Website"
           />
           <div class="px-6 py-4">
@@ -26,7 +26,7 @@
         <div class="max-w-sm rounded-xl overflow-hidden shadow-xl">
           <img
             class="w-full"
-            src="../assets/website-ptipd.jpeg"
+            src="../assets/website-ptipd.webp"
             alt="Cafe Website"
           />
           <div class="px-6 py-4">
@@ -43,7 +43,7 @@
         <div class="max-w-sm rounded-xl overflow-hidden shadow-xl">
           <img
             class="w-full"
-            src="../assets/web-belajar-yuk.png"
+            src="../assets/web-belajar-yuk.webp"
             alt="Sunset in the mountains"
           />
           <div class="px-6 py-4">
@@ -60,6 +60,4 @@
   </div>
 </template>
 
-<script>
-
-</script>
+<script></script>
