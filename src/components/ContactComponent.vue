@@ -2,12 +2,15 @@
   <div class="flex flex-row justify-center">
     <div class="basis-1/2">
       <div class="w-full max-w-xl ml-10 mt-10">
-        <form class="bg-white shadow-xl rounded px-8 pt-6 pb-8 mb-4">
+        <form
+          class="bg-white shadow-xl rounded px-8 pt-6 pb-8 mb-4"
+          method="post"
+        >
           <h1 class="text-4xl font-bold mb-5">Form</h1>
           <div class="mb-4">
             <label
               class="block text-gray-700 text-sm font-bold mb-2"
-              for="username"
+              for="fullname"
             >
               Fullname :
             </label>
@@ -21,39 +24,36 @@
           <div class="mb-4">
             <label
               class="block text-gray-700 text-sm font-bold mb-2"
-              for="username"
+              for="email"
             >
               Email :
             </label>
             <input
               class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-              id=""
+              id="email"
               type="email"
               placeholder="Email"
             />
           </div>
           <div class="mb-4">
-            <label
-              class="block text-gray-700 text-sm font-bold mb-2"
-              for="username"
-            >
+            <label class="block text-gray-700 text-sm font-bold mb-2" for="">
               Subject :
             </label>
             <input
               class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-              id="username"
+              id="subject"
               type="text"
               placeholder="Subject"
             />
             <label
               class="block text-gray-700 text-sm font-bold mb-2"
-              for="username"
+              for="message"
             >
               Message :
             </label>
             <textarea
-              name=""
-              id=""
+              name="message"
+              id="message"
               cols="10"
               rows="6"
               class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
@@ -74,35 +74,33 @@
     <div class="basis-1/2">
       <div class="mt-16">
         <h1 class="text-4xl font-bold">Contact Me</h1>
-        <p class="text-xl mt-3">
-          Silahkan kontak saya jika anda membutuhkan 
-        </p>
-        <p class="text-xl">
-            atau jika ada pertanyaan untuk saya
-        </p>
+        <p class="text-xl mt-3">Silahkan kontak saya jika anda membutuhkan</p>
+        <p class="text-xl">atau jika ada pertanyaan untuk saya</p>
         <div class="flex flex-row mt-3">
-            <div>
-                <i class="fa-brands fa-whatsapp text-4xl"></i>
-            </div>
-            <div class="ml-3 mt-2" >
-                <a class="text-1xl font-bold" href="tel:+6283821021360">0838-2102-1360</a>
-            </div>
+          <div>
+            <i class="fa-brands fa-whatsapp text-4xl"></i>
+          </div>
+          <div class="ml-3 mt-2">
+            <a class="text-1xl font-bold" href="tel:+6283821021360"
+              >0838-2102-1360</a
+            >
+          </div>
         </div>
         <div class="flex flex-row mt-3">
-            <div>
-                <i class="fa-regular fa-envelope text-4xl"></i>
-            </div>
-            <div class="ml-3 mt-2" >
-                <p class="text-1xl font-bold">hafidalazhar5@gmail.com</p>
-            </div>
+          <div>
+            <i class="fa-regular fa-envelope text-4xl"></i>
+          </div>
+          <div class="ml-3 mt-2">
+            <p class="text-1xl font-bold">hafidalazhar5@gmail.com</p>
+          </div>
         </div>
         <div class="flex flex-row mt-3">
-            <div>
-                <i class="fa-solid fa-location-dot text-4xl"></i>
-            </div>
-            <div class="ml-3 mt-2" >
-                <p class="text-1xl font-bold ">Rancamanyar</p>
-            </div>
+          <div>
+            <i class="fa-solid fa-location-dot text-4xl"></i>
+          </div>
+          <div class="ml-3 mt-2">
+            <p class="text-1xl font-bold">Rancamanyar</p>
+          </div>
         </div>
       </div>
     </div>
